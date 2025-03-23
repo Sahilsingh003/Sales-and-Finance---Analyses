@@ -4,7 +4,7 @@
 - **Project objective:** 
 This project focuses on analyzing and visualizing key business metrics through interactive reports. It provides insights into customer performance, market comparisons, and financial outcomes to support data-driven decision-making.
 
-    **1.** _[Customer performance report](https://github.com/Sahilsingh003/Sales-Analyses/blob/main/Customer%20Performance%20Report.pdf)_
+    **1.** _[Customer performance report](https://github.com/Sahilsingh003/Sales-and-Finance---Analyses/blob/main/Customer%20Performance%20Report.pdf)_
    - Evaluate the sales contributions of various customers.
    - Identify high-performing customers and potential growth opportunities.
    - Analyze sales trends across different regions and customer segments.
