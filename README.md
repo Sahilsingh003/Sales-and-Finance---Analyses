@@ -10,7 +10,7 @@ This project focuses on analyzing and visualizing key business metrics through i
    - Analyze sales trends across different regions and customer segments.
    - Provide recommendations for targeted promotions and customer retention strategies.
 
-    **2.** _[Market Performance and Sales Target](https://github.com/Sahilsingh003/Sales-Analyses/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)_
+    **2.** _[Market Performance and Sales Target](https://github.com/Sahilsingh003/Sales-and-Finance---Analyses/blob/main/Market%20Vs%20Target%20Report.pdf)_
    - Compare actual market performance against pre-defined sales targets.
    - Identify underperforming markets and assess reasons for deviations.
    - Analyze regional sales trends and their impact on overall business goals.
