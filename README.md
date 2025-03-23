@@ -35,7 +35,7 @@ This project focuses on analyzing and visualizing key business metrics through i
 
 - **Project objective:** 
 
-    **1.**Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/Sahilsingh003/Sales-Analyses/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/Sahilsingh003/Sales-Analyses/blob/main/P%26L%20Statement%20by%20Months.pdf)_
+    **1.**Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/Sahilsingh003/Sales-Analyses/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/Sahilsingh003/Sales-and-Finance---Analyses/blob/main/P%20%26%20L%20Statement%20By%20Month.pdf)_
    - Track revenue, cost of goods sold (COGS), and profitability over time.
    - Identify trends in financial performance across different fiscal periods.
    - Support budgeting, forecasting, and financial planning through data analysis.
